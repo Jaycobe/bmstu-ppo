@@ -50,4 +50,10 @@ DB: PostgreSQL
 
 ## 12. UML диаграммы классов для двух отдельных компонентов - компонента доступа к данным и компонента с бизнес-логикой
 ### UML-диаграмма компонента доступа к данным 
-!(/img/data_uml.svg).
+![alt text for screen readers](/img/data_uml.svg).
+
+### UML-диаграмма компонента бизнес-логики
+![alt text for screen readers](/img/back_uml.svg).
+
+### UML-диаграмма сущностей БД
+![alt text for screen readers](/img/db_uml.svg).
